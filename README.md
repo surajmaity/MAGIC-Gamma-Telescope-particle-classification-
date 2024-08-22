@@ -19,7 +19,7 @@ The dataset used in this project is the **MAGIC Gamma Telescope** dataset, which
 
 ## Dependencies
 
-- Python 3.x
+- Python version 3
 - Pandas
 - Numpy
 - Scikit-learn
@@ -52,4 +52,3 @@ This project was created by Suraj Maity as part of a machine learning exploratio
 
 ---
 
-Let me know if there's anything else you'd like to add!
