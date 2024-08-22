@@ -1,7 +1,3 @@
-# MAGIC-Gamma-Telescope-particle-classification-
-Here's the updated README file with the dataset source included:
-
----
 
 # Magic Gamma telescope particle classification: A Machine Learning Project
 
