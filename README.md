@@ -33,7 +33,7 @@ The dataset used in this project is the **MAGIC Gamma Telescope** dataset, which
    pip install pandas numpy scikit-learn matplotlib tensorflow
    ```
 2. **Run the Notebook**: 
-   Open the `Magic.ipynb` notebook in Jupyter and run all cells sequentially.
+   Open the `Magic.ipynb` notebook in Jupyter Notebook or Google Collab and run all cells sequentially.
 
 ## Structure
 
