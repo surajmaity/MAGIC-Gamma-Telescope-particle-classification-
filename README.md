@@ -9,6 +9,8 @@ This project demonstrates the implementation of various machine learning models 
 
 The dataset used in this project is the **MAGIC Gamma Telescope** dataset, which can be found [here](https://archive.ics.uci.edu/dataset/159/magic+gamma+telescope). This dataset contains data from a ground-based telescope used to detect gamma rays.
 
+## The .zip file containing the dataset is also being attached in the repo files for convinience
+
 ## Features
 
 - **Data Preprocessing**: Handling missing values, feature scaling, and encoding categorical variables.
